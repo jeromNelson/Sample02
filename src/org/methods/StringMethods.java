@@ -5,7 +5,7 @@ public class StringMethods {
 	public static void main(String[] args) {
 		
 		String s1 = "    java is a programming language";
-		
+		String s2 = "Automation tester";
 		boolean empty = s1.isEmpty();
 		System.out.println(empty);
 		
@@ -26,6 +26,11 @@ public class StringMethods {
 		
 		String[] l = s1.split("a");
 		System.out.println(l);
+		
+		System.out.println(s2);
+		System.out.println(s1);
+		
+		
 	}
 
 }
