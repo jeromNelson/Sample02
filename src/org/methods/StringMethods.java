@@ -28,7 +28,7 @@ public class StringMethods {
 		System.out.println(l);
 		
 		System.out.println(s2);
-		
+		System.out.println(s1);
 		
 		
 	}
