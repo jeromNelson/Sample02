@@ -26,6 +26,8 @@ public class StringMethods {
 		
 		String[] l = s1.split("a");
 		System.out.println(l);
+		
+	
 	}
 
 }
